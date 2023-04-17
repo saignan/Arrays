@@ -1,0 +1,15 @@
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\bin\Debug\net6.0\MyFirstProject.exe
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\bin\Debug\net6.0\MyFirstProject.deps.json
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\bin\Debug\net6.0\MyFirstProject.runtimeconfig.json
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\bin\Debug\net6.0\MyFirstProject.dll
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\bin\Debug\net6.0\MyFirstProject.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.dll
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\refint\MyFirstProject.dll
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.pdb
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\saign.DESKTOP-USF3KTJ\source\repos\Demo\MyFirstProject\obj\Debug\net6.0\ref\MyFirstProject.dll
